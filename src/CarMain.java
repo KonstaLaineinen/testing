@@ -11,6 +11,7 @@ public class CarMain {
         car1.printData();
         car1.accelerate();
         car1.brake();
+        car1.refuel(10);
         car1.printData();
         car2.printData();
 
