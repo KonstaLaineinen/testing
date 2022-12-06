@@ -8,7 +8,6 @@ public class carClass {
 
 
     //Default constructor
-
     public carClass(){
         brand="";
         model="";
@@ -23,9 +22,7 @@ public class carClass {
 
     }
 
-
     //Methods
-
     public void brake () {
         System.out.println("Car is braking");
     }
@@ -39,7 +36,6 @@ public class carClass {
             System.exit (0);
         }
     }
-
 
     public void printData () {
         System.out.println("Brand: " + brand);
