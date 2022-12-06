@@ -12,6 +12,7 @@ public class CarMain {
         car1.accelerate();
         car1.brake();
         car1.printData();
+        car2.printData();
 
 
 
